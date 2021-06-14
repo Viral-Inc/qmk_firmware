@@ -28,10 +28,10 @@ GNU General Public License <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 7
 
-// wiring
-#define MATRIX_ROW_PINS { B4, E6, D7, D4 }
-#define MATRIX_COL_PINS { B6, B2, B3, B1, F7, F6, F5 }
-#define UNUSED_PINS
+// wiring (each half)
+#define MATRIX_ROW_PINS { D2, D3, D4, D5 }
+#define MATRIX_COL_PINS { F7, F6, F5, F4, F1, F0, E6 }
+//#define UNUSED_PINS
 
 
 /* COL2ROW, ROW2COL*/
@@ -47,3 +47,4 @@ GNU General Public License <http://www.gnu.org/licenses/>.
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
  */
 #define SOFT_SERIAL_PIN D0
+#define SELECT_SOFT_SERIAL_SPEED 1
