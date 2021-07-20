@@ -1,1 +1,1 @@
-# The default keymap for deedee_6
+# The default keymap for deedee7
