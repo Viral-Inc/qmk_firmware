@@ -38,7 +38,7 @@
     { KC_NO, L05,   L04,   L03,   L02,   L01,   L00   }, \
     { L18,   L17,   L16,   L15,   L14,   L13,   L12   }, \
     { L31,   L30,   L29,   L28,   L27,   L26,   KC_NO }, \
-    { L38,   L39,   L40,   KC_NO, KC_NO, KC_NO, KC_NO }, \
+    { L40,   L39,   L38,   KC_NO, KC_NO, KC_NO, KC_NO }, \
     { KC_NO, R06,   R07,   R08,   R09,   R10,   R11   }, \
     { R19,   R20,   R21,   R22,   R23,   R24,   R25   }, \
     { R32,   R33,   R34,   R35,   R36,   R37,   KC_NO }, \
